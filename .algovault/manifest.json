@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-07-16T11:26:53.748Z",
+  "submissions": {
+    "sum-of-gcd-of-formed-pairs": {
+      "questionId": "3867",
+      "title": "Sum of GCD of Formed Pairs",
+      "titleSlug": "sum-of-gcd-of-formed-pairs",
+      "difficulty": "Medium",
+      "tags": [
+        "Array",
+        "Math",
+        "Two Pointers",
+        "Sorting",
+        "Simulation",
+        "Number Theory"
+      ],
+      "solutions": {
+        "java": {
+          "syncedAt": 1784201213748,
+          "runtime": "53 ms",
+          "memory": "107.9 MB",
+          "githubPath": "Array/Sum of GCD of Formed Pairs/"
+        }
+      }
+    }
+  },
+  "username": "BARANIDHARAN-ECE"
+}
