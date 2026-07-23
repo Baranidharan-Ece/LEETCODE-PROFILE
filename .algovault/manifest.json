@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-23T16:16:39.798Z",
+  "lastUpdated": "2026-07-23T16:16:44.490Z",
   "submissions": {
     "sum-of-gcd-of-formed-pairs": {
       "questionId": "3867",
@@ -135,10 +135,10 @@
         "Sorting"
       ],
       "solutions": {
-        "java": {
-          "syncedAt": 1784823399798,
-          "runtime": "29 ms",
-          "memory": "70 MB",
+        "12345678910111213141516171819202122class solution {    public int[] arrayranktransform(int[] arr) {        int[] sorted = arr.clone();        arrays.sort(sorted);        int m = 0;        for (int x : sorted) {            if (m == 0 || sorted[m - 1] != x) {                sorted[m++] = x;            }        }        int[] unique = arrays.copyof(sorted, m);        for (int i = 0; i < arr.length; i++) {            arr[i] = arrays.binarysearch(unique, arr[i]) + 1;        }        return arr;    }}": {
+          "syncedAt": 1784823404490,
+          "runtime": "N/A",
+          "memory": "N/A",
           "githubPath": "Array/Rank Transform of an Array/"
         }
       }
