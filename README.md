@@ -11,12 +11,19 @@ This repository contains my personal library of highly optimized, strictly teste
 ## 📊 Real-Time Performance Analytics
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874591245" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874600479" width="100%" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=baranidharansnkdr&theme=dark&v=1784874600479" width="100%" />
 </p>
 
 ## 📂 Repository Structure
 
 - **[LeetCode](./LeetCode)**: Topic-wise FAANG interview preparation and algorithmic challenges.
+- **[Codeforces](./Codeforces)**: Competitive programming contest solutions focusing on math, greedies, and advanced data structures.
 
 ---
 <p align="center">
