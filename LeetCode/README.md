@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874591233" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874609618" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -42,10 +42,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1346 | [Check If N and Its Double Exist](./Array/Check%20If%20N%20and%20Its%20Double%20Exist/) | Easy |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
+| 1582 | [Special Positions in a Binary Matrix](./Array/Special%20Positions%20in%20a%20Binary%20Matrix/) | Easy |
 | 1636 | [Sort Array by Increasing Frequency](./Array/Sort%20Array%20by%20Increasing%20Frequency/) | Easy |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1848 | [Minimum Distance to the Target Element](./Array/Minimum%20Distance%20to%20the%20Target%20Element/) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./Array/Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) | Easy |
 | 2078 | [Two Furthest Houses With Different Colors](./Array/Two%20Furthest%20Houses%20With%20Different%20Colors/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./Array/Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) | Easy |
@@ -53,6 +55,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2678 | [Number of Senior Citizens](./Array/Number%20of%20Senior%20Citizens/) | Easy |
 | 2717 | [Semi-Ordered Permutation](./Array/Semi-Ordered%20Permutation/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
+| 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
+| 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
+| 3740 | [Minimum Distance Between Three Equal Elements I](./Array/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
 
 </details>
@@ -162,9 +167,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 2833 | [Furthest Point From Origin](./String/Furthest%20Point%20From%20Origin/) | Easy |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](./String/Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) | Easy |
+| 3136 | [Valid Word](./String/Valid%20Word/) | Easy |
 
 </details>
 

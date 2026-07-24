@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:29:58.955Z",
+  "lastUpdated": "2026-07-24T06:30:09.614Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1521,32 +1521,153 @@
               "githubPath": "LeetCode/Array/Minimum Distance to the Target Element/"
             }
           }
-        }
-      },
-      "username": "BARANIDHARAN-ECE"
-    },
-    "codeforces": {
-      "submissions": {
-        "4-A": {
-          "questionId": "4A",
-          "title": "Watermelon",
-          "titleSlug": "4-A",
-          "difficulty": "800",
+        },
+        "minimum-difference-between-highest-and-lowest-of-k-scores": {
+          "questionId": "1984",
+          "title": "Minimum Difference Between Highest and Lowest of K Scores",
+          "titleSlug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+          "difficulty": "Easy",
           "tags": [
-            "brute force",
-            "math"
+            "Array",
+            "Sliding Window",
+            "Sorting"
           ],
           "solutions": {
-            "python": {
-              "syncedAt": 1784874598955,
-              "runtime": "124 ms",
-              "memory": "0 KB",
-              "githubPath": "Codeforces/brute force/Watermelon/"
+            "java": {
+              "syncedAt": 1784874609614,
+              "runtime": "8 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Minimum Difference Between Highest and Lowest of K Scores/"
+            }
+          }
+        },
+        "valid-word": {
+          "questionId": "3136",
+          "title": "Valid Word",
+          "titleSlug": "valid-word",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874609614,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Valid Word/"
+            }
+          }
+        },
+        "minimum-distance-between-three-equal-elements-i": {
+          "questionId": "3740",
+          "title": "Minimum Distance Between Three Equal Elements I",
+          "titleSlug": "minimum-distance-between-three-equal-elements-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874609614,
+              "runtime": "4 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Minimum Distance Between Three Equal Elements I/"
+            }
+          }
+        },
+        "trionic-array-i": {
+          "questionId": "3637",
+          "title": "Trionic Array I",
+          "titleSlug": "trionic-array-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874609614,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Trionic Array I/"
+            }
+          }
+        },
+        "check-if-strings-can-be-made-equal-with-operations-i": {
+          "questionId": "2839",
+          "title": "Check if Strings Can be Made Equal With Operations I",
+          "titleSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874609614,
+              "runtime": "1 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/String/Check if Strings Can be Made Equal With Operations I/"
+            }
+          }
+        },
+        "matrix-similarity-after-cyclic-shifts": {
+          "questionId": "2946",
+          "title": "Matrix Similarity After Cyclic Shifts",
+          "titleSlug": "matrix-similarity-after-cyclic-shifts",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874609614,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Matrix Similarity After Cyclic Shifts/"
+            }
+          }
+        },
+        "special-positions-in-a-binary-matrix": {
+          "questionId": "1582",
+          "title": "Special Positions in a Binary Matrix",
+          "titleSlug": "special-positions-in-a-binary-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874609614,
+              "runtime": "2 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Special Positions in a Binary Matrix/"
+            }
+          }
+        },
+        "robot-return-to-origin": {
+          "questionId": "657",
+          "title": "Robot Return to Origin",
+          "titleSlug": "robot-return-to-origin",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874609614,
+              "runtime": "4 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/String/Robot Return to Origin/"
             }
           }
         }
       },
-      "username": "baranidharansnkdr"
+      "username": "BARANIDHARAN-ECE"
     }
   }
 }
