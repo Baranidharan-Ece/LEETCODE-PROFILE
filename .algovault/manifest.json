@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:28:07.841Z",
+  "lastUpdated": "2026-07-24T06:28:26.159Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -554,6 +554,212 @@
               "runtime": "19 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Number of Ways to Wear Different Hats to Each Other/"
+            }
+          }
+        },
+        "number-of-squareful-arrays": {
+          "questionId": "996",
+          "title": "Number of Squareful Arrays",
+          "titleSlug": "number-of-squareful-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "2 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
+            }
+          }
+        },
+        "number-of-strings-that-appear-as-substrings-in-word": {
+          "questionId": "1967",
+          "title": "Number of Strings That Appear as Substrings in Word",
+          "titleSlug": "number-of-strings-that-appear-as-substrings-in-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "1 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Number of Strings That Appear as Substrings in Word/"
+            }
+          }
+        },
+        "search-insert-position": {
+          "questionId": "35",
+          "title": "Search Insert Position",
+          "titleSlug": "search-insert-position",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Search Insert Position/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "4 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "rectangle-overlap": {
+          "questionId": "836",
+          "title": "Rectangle Overlap",
+          "titleSlug": "rectangle-overlap",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Rectangle Overlap/"
+            }
+          }
+        },
+        "semi-ordered-permutation": {
+          "questionId": "2717",
+          "title": "Semi-Ordered Permutation",
+          "titleSlug": "semi-ordered-permutation",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "1 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Semi-Ordered Permutation/"
+            }
+          }
+        },
+        "fraction-to-recurring-decimal": {
+          "questionId": "166",
+          "title": "Fraction to Recurring Decimal",
+          "titleSlug": "fraction-to-recurring-decimal",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "1 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
+            }
+          }
+        },
+        "maximum-erasure-value": {
+          "questionId": "1695",
+          "title": "Maximum Erasure Value",
+          "titleSlug": "maximum-erasure-value",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "52 ms",
+              "memory": "93 MB",
+              "githubPath": "LeetCode/Array/Maximum Erasure Value/"
+            }
+          }
+        },
+        "minimum-window-substring": {
+          "questionId": "76",
+          "title": "Minimum Window Substring",
+          "titleSlug": "minimum-window-substring",
+          "difficulty": "Hard",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "20 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
+            }
+          }
+        },
+        "maximum-number-of-vowels-in-a-substring-of-given-length": {
+          "questionId": "1456",
+          "title": "Maximum Number of Vowels in a Substring of Given Length",
+          "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506158,
+              "runtime": "14 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
+            }
+          }
+        },
+        "maximum-average-subarray-i": {
+          "questionId": "643",
+          "title": "Maximum Average Subarray I",
+          "titleSlug": "maximum-average-subarray-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874506159,
+              "runtime": "5 ms",
+              "memory": "69.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
             }
           }
         }
