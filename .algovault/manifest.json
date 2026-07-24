@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:28:49.212Z",
+  "lastUpdated": "2026-07-24T06:29:06.219Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -994,6 +994,162 @@
               "runtime": "35 ms",
               "memory": "99.8 MB",
               "githubPath": "LeetCode/Stack/Min Stack/"
+            }
+          }
+        },
+        "longest-substring-without-repeating-characters": {
+          "questionId": "3",
+          "title": "Longest Substring Without Repeating Characters",
+          "titleSlug": "longest-substring-without-repeating-characters",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874546219,
+              "runtime": "6 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "partition-array-according-to-given-pivot": {
+          "questionId": "2161",
+          "title": "Partition Array According to Given Pivot",
+          "titleSlug": "partition-array-according-to-given-pivot",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874546219,
+              "runtime": "5 ms",
+              "memory": "159.8 MB",
+              "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
+            }
+          }
+        },
+        "maximum-points-you-can-obtain-from-cards": {
+          "questionId": "1423",
+          "title": "Maximum Points You Can Obtain from Cards",
+          "titleSlug": "maximum-points-you-can-obtain-from-cards",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874546219,
+              "runtime": "2 ms",
+              "memory": "62 MB",
+              "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
+            }
+          }
+        },
+        "count-number-of-nice-subarrays": {
+          "questionId": "1248",
+          "title": "Count Number of Nice Subarrays",
+          "titleSlug": "count-number-of-nice-subarrays",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874546219,
+              "runtime": "3 ms",
+              "memory": "55.1 MB",
+              "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
+            }
+          }
+        },
+        "longest-mountain-in-array": {
+          "questionId": "845",
+          "title": "Longest Mountain in Array",
+          "titleSlug": "longest-mountain-in-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874546219,
+              "runtime": "3 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Longest Mountain in Array/"
+            }
+          }
+        },
+        "binary-tree-inorder-traversal": {
+          "questionId": "94",
+          "title": "Binary Tree Inorder Traversal",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874546219,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
+            }
+          }
+        },
+        "range-addition-ii": {
+          "questionId": "598",
+          "title": "Range Addition II",
+          "titleSlug": "range-addition-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874546219,
+              "runtime": "0 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/Array/Range Addition II/"
+            }
+          }
+        },
+        "largest-perimeter-triangle": {
+          "questionId": "976",
+          "title": "Largest Perimeter Triangle",
+          "titleSlug": "largest-perimeter-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874546219,
+              "runtime": "12 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
             }
           }
         }
