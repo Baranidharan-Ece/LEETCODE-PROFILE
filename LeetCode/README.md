@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874670899" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874685270" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -46,6 +46,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 840 | [Magic Squares In Grid](./Array/Magic%20Squares%20In%20Grid/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
+| 955 | [Delete Columns to Make Sorted II](./Array/Delete%20Columns%20to%20Make%20Sorted%20II/) | Medium |
+| 960 | [Delete Columns to Make Sorted III](./Array/Delete%20Columns%20to%20Make%20Sorted%20III/) | Hard |
 | 961 | [N-Repeated Element in Size 2N Array](./Array/N-Repeated%20Element%20in%20Size%202N%20Array/) | Easy |
 | 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
@@ -62,14 +64,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 1975 | [Maximum Matrix Sum](./Array/Maximum%20Matrix%20Sum/) | Medium |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./Array/Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) | Easy |
+| 2054 | [Two Best Non-Overlapping Events](./Array/Two%20Best%20Non-Overlapping%20Events/) | Medium |
 | 2078 | [Two Furthest Houses With Different Colors](./Array/Two%20Furthest%20Houses%20With%20Different%20Colors/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+| 2402 | [Meeting Rooms III](./Array/Meeting%20Rooms%20III/) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./Array/Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) | Easy |
 | 2570 | [Merge Two 2D Arrays by Summing Values](./Array/Merge%20Two%202D%20Arrays%20by%20Summing%20Values/) | Easy |
 | 2678 | [Number of Senior Citizens](./Array/Number%20of%20Senior%20Citizens/) | Easy |
 | 2717 | [Semi-Ordered Permutation](./Array/Semi-Ordered%20Permutation/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
+| 3074 | [Apple Redistribution into Boxes](./Array/Apple%20Redistribution%20into%20Boxes/) | Easy |
+| 3075 | [Maximize Happiness of Selected Children](./Array/Maximize%20Happiness%20of%20Selected%20Children/) | Medium |
 | 3314 | [Construct the Minimum Bitwise Array I](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20I/) | Easy |
 | 3418 | [Maximum Amount of Money Robot Can Earn](./Array/Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) | Medium |
 | 3507 | [Minimum Pair Removal to Sort Array I](./Array/Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) | Easy |
@@ -208,6 +214,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](./String/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) | Easy |
+| 2483 | [Minimum Penalty for a Shop](./String/Minimum%20Penalty%20for%20a%20Shop/) | Medium |
 | 2833 | [Furthest Point From Origin](./String/Furthest%20Point%20From%20Origin/) | Easy |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](./String/Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) | Easy |
 | 3136 | [Valid Word](./String/Valid%20Word/) | Easy |
