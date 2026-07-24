@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:29:36.993Z",
+  "lastUpdated": "2026-07-24T06:29:51.227Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1448,6 +1448,77 @@
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Linked List/Convert Binary Number in a Linked List to Integer/"
+            }
+          }
+        },
+        "mirror-distance-of-an-integer": {
+          "questionId": "3783",
+          "title": "Mirror Distance of an Integer",
+          "titleSlug": "mirror-distance-of-an-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874591227,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Math/Mirror Distance of an Integer/"
+            }
+          }
+        },
+        "maximum-product-of-three-numbers": {
+          "questionId": "628",
+          "title": "Maximum Product of Three Numbers",
+          "titleSlug": "maximum-product-of-three-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874591227,
+              "runtime": "16 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
+            }
+          }
+        },
+        "shortest-distance-to-target-string-in-a-circular-array": {
+          "questionId": "2515",
+          "title": "Shortest Distance to Target String in a Circular Array",
+          "titleSlug": "shortest-distance-to-target-string-in-a-circular-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874591227,
+              "runtime": "0 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Array/Shortest Distance to Target String in a Circular Array/"
+            }
+          }
+        },
+        "minimum-distance-to-the-target-element": {
+          "questionId": "1848",
+          "title": "Minimum Distance to the Target Element",
+          "titleSlug": "minimum-distance-to-the-target-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874591227,
+              "runtime": "1 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Minimum Distance to the Target Element/"
             }
           }
         }

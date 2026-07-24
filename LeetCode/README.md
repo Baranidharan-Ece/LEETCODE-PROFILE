@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874576995" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874591233" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -30,6 +30,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
+| 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
@@ -43,9 +44,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
 | 1636 | [Sort Array by Increasing Frequency](./Array/Sort%20Array%20by%20Increasing%20Frequency/) | Easy |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
+| 1848 | [Minimum Distance to the Target Element](./Array/Minimum%20Distance%20to%20the%20Target%20Element/) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2078 | [Two Furthest Houses With Different Colors](./Array/Two%20Furthest%20Houses%20With%20Different%20Colors/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+| 2515 | [Shortest Distance to Target String in a Circular Array](./Array/Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) | Easy |
 | 2570 | [Merge Two 2D Arrays by Summing Values](./Array/Merge%20Two%202D%20Arrays%20by%20Summing%20Values/) | Easy |
 | 2678 | [Number of Senior Citizens](./Array/Number%20of%20Senior%20Citizens/) | Easy |
 | 2717 | [Semi-Ordered Permutation](./Array/Semi-Ordered%20Permutation/) | Easy |
@@ -135,6 +138,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
+| 3783 | [Mirror Distance of an Integer](./Math/Mirror%20Distance%20of%20an%20Integer/) | Easy |
 
 </details>
 
