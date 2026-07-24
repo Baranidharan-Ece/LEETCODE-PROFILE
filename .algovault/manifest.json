@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:29:17.883Z",
+  "lastUpdated": "2026-07-24T06:29:27.813Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1281,6 +1281,97 @@
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Merge Two 2D Arrays by Summing Values/"
+            }
+          }
+        },
+        "find-words-containing-character": {
+          "questionId": "2942",
+          "title": "Find Words Containing Character",
+          "titleSlug": "find-words-containing-character",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874567813,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Find Words Containing Character/"
+            }
+          }
+        },
+        "maximum-number-of-words-you-can-type": {
+          "questionId": "1935",
+          "title": "Maximum Number of Words You Can Type",
+          "titleSlug": "maximum-number-of-words-you-can-type",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874567813,
+              "runtime": "2 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Hash Table/Maximum Number of Words You Can Type/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874567813,
+              "runtime": "7 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "furthest-point-from-origin": {
+          "questionId": "2833",
+          "title": "Furthest Point From Origin",
+          "titleSlug": "furthest-point-from-origin",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874567813,
+              "runtime": "1 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/String/Furthest Point From Origin/"
+            }
+          }
+        },
+        "sort-array-by-increasing-frequency": {
+          "questionId": "1636",
+          "title": "Sort Array by Increasing Frequency",
+          "titleSlug": "sort-array-by-increasing-frequency",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874567813,
+              "runtime": "9 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/Array/Sort Array by Increasing Frequency/"
             }
           }
         }
