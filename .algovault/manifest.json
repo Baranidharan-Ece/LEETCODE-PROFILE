@@ -1,0 +1,164 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-07-24T06:27:39.991Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "rank-transform-of-an-array": {
+          "questionId": "1331",
+          "title": "Rank Transform of an Array",
+          "titleSlug": "rank-transform-of-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874459991,
+              "runtime": "29 ms",
+              "memory": "70 MB",
+              "githubPath": "LeetCode/Array/Rank Transform of an Array/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874459991,
+              "runtime": "1 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "sliding-window-maximum": {
+          "questionId": "239",
+          "title": "Sliding Window Maximum",
+          "titleSlug": "sliding-window-maximum",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Queue",
+            "Sliding Window",
+            "Heap (Priority Queue)",
+            "Monotonic Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874459991,
+              "runtime": "36 ms",
+              "memory": "146.8 MB",
+              "githubPath": "LeetCode/Array/Sliding Window Maximum/"
+            }
+          }
+        },
+        "next-permutation": {
+          "questionId": "31",
+          "title": "Next Permutation",
+          "titleSlug": "next-permutation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874459991,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Next Permutation/"
+            }
+          }
+        },
+        "sum-of-gcd-of-formed-pairs": {
+          "questionId": "3867",
+          "title": "Sum of GCD of Formed Pairs",
+          "titleSlug": "sum-of-gcd-of-formed-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers",
+            "Sorting",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874459991,
+              "runtime": "52 ms",
+              "memory": "108.1 MB",
+              "githubPath": "LeetCode/Array/Sum of GCD of Formed Pairs/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874459991,
+              "runtime": "1 ms",
+              "memory": "69.2 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "employees-whose-manager-left-the-company": {
+          "questionId": "1978",
+          "title": "Employees Whose Manager Left the Company",
+          "titleSlug": "employees-whose-manager-left-the-company",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874459991,
+              "runtime": "410 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Whose Manager Left the Company/"
+            }
+          }
+        },
+        "managers-with-at-least-5-direct-reports": {
+          "questionId": "570",
+          "title": "Managers with at Least 5 Direct Reports",
+          "titleSlug": "managers-with-at-least-5-direct-reports",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874459991,
+              "runtime": "482 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
+            }
+          }
+        }
+      },
+      "username": "BARANIDHARAN-ECE"
+    }
+  }
+}
