@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874624068" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874636330" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,9 +21,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
+| 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
@@ -63,6 +66,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./Array/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
+
+</details>
+
+
+### Bit Manipulation
+<details>
+<summary>Click to expand Bit Manipulation problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 868 | [Binary Gap](./Bit%20Manipulation/Binary%20Gap/) | Easy |
 
 </details>
 
@@ -145,6 +159,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
+| 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |

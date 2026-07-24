@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:30:24.066Z",
+  "lastUpdated": "2026-07-24T06:30:36.328Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1836,6 +1836,119 @@
               "runtime": "48 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Top K Frequent Elements/"
+            }
+          }
+        },
+        "unique-binary-search-trees": {
+          "questionId": "96",
+          "title": "Unique Binary Search Trees",
+          "titleSlug": "unique-binary-search-trees",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874636328,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Math/Unique Binary Search Trees/"
+            }
+          }
+        },
+        "binary-gap": {
+          "questionId": "868",
+          "title": "Binary Gap",
+          "titleSlug": "binary-gap",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874636328,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Binary Gap/"
+            }
+          }
+        },
+        "excel-sheet-column-title": {
+          "questionId": "168",
+          "title": "Excel Sheet Column Title",
+          "titleSlug": "excel-sheet-column-title",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874636328,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Title/"
+            }
+          }
+        },
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874636328,
+              "runtime": "8 ms",
+              "memory": "55.7 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
+            }
+          }
+        },
+        "pascals-triangle": {
+          "questionId": "118",
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascals-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874636328,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874636328,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
             }
           }
         }
