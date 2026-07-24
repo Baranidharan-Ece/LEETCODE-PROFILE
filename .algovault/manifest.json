@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:30:45.412Z",
+  "lastUpdated": "2026-07-24T06:30:56.498Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2005,6 +2005,119 @@
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
+            }
+          }
+        },
+        "relative-ranks": {
+          "questionId": "506",
+          "title": "Relative Ranks",
+          "titleSlug": "relative-ranks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874656498,
+              "runtime": "13 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
+            }
+          }
+        },
+        "teemo-attacking": {
+          "questionId": "495",
+          "title": "Teemo Attacking",
+          "titleSlug": "teemo-attacking",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874656498,
+              "runtime": "3 ms",
+              "memory": "48.6 MB",
+              "githubPath": "LeetCode/Array/Teemo Attacking/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874656498,
+              "runtime": "3 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "number-of-1-bits": {
+          "questionId": "191",
+          "title": "Number of 1 Bits",
+          "titleSlug": "number-of-1-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874656498,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
+            }
+          }
+        },
+        "minimum-pair-removal-to-sort-array-i": {
+          "questionId": "3507",
+          "title": "Minimum Pair Removal to Sort Array I",
+          "titleSlug": "minimum-pair-removal-to-sort-array-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Linked List",
+            "Heap (Priority Queue)",
+            "Simulation",
+            "Doubly-Linked List",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874656498,
+              "runtime": "1 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Array/Minimum Pair Removal to Sort Array I/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874656498,
+              "runtime": "45 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
         }

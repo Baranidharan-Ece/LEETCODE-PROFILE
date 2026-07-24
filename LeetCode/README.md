@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874645414" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874656501" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -16,6 +16,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
@@ -28,13 +29,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 396 | [Rotate Function](./Array/Rotate%20Function/) | Medium |
+| 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
+| 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
@@ -63,6 +67,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
 | 3418 | [Maximum Amount of Money Robot Can Earn](./Array/Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) | Medium |
+| 3507 | [Minimum Pair Removal to Sort Array I](./Array/Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) | Easy |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./Array/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
@@ -120,6 +125,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 190 | [Reverse Bits](./Divide%20and%20Conquer/Reverse%20Bits/) | Easy |
+| 191 | [Number of 1 Bits](./Divide%20and%20Conquer/Number%20of%201%20Bits/) | Easy |
 
 </details>
 
