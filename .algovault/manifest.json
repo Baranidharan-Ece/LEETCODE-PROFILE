@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:27:55.755Z",
+  "lastUpdated": "2026-07-24T06:28:07.841Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -360,6 +360,200 @@
               "runtime": "407 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Patients With a Condition/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874487841,
+              "runtime": "2 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "is-subsequence": {
+          "questionId": "392",
+          "title": "Is Subsequence",
+          "titleSlug": "is-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874487841,
+              "runtime": "2 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
+            }
+          }
+        },
+        "customer-placing-the-largest-number-of-orders": {
+          "questionId": "586",
+          "title": "Customer Placing the Largest Number of Orders",
+          "titleSlug": "customer-placing-the-largest-number-of-orders",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874487841,
+              "runtime": "478 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customer Placing the Largest Number of Orders/"
+            }
+          }
+        },
+        "classes-with-at-least-5-students": {
+          "questionId": "596",
+          "title": "Classes With at Least 5 Students",
+          "titleSlug": "classes-with-at-least-5-students",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874487841,
+              "runtime": "369 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Classes With at Least 5 Students/"
+            }
+          }
+        },
+        "duplicate-emails": {
+          "questionId": "182",
+          "title": "Duplicate Emails",
+          "titleSlug": "duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874487841,
+              "runtime": "358 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Duplicate Emails/"
+            }
+          }
+        },
+        "find-customer-referee": {
+          "questionId": "584",
+          "title": "Find Customer Referee",
+          "titleSlug": "find-customer-referee",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874487841,
+              "runtime": "485 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Customer Referee/"
+            }
+          }
+        },
+        "not-boring-movies": {
+          "questionId": "620",
+          "title": "Not Boring Movies",
+          "titleSlug": "not-boring-movies",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874487841,
+              "runtime": "258 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Not Boring Movies/"
+            }
+          }
+        },
+        "invalid-tweets": {
+          "questionId": "1683",
+          "title": "Invalid Tweets",
+          "titleSlug": "invalid-tweets",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874487841,
+              "runtime": "565 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Invalid Tweets/"
+            }
+          }
+        },
+        "calculate-special-bonus": {
+          "questionId": "1873",
+          "title": "Calculate Special Bonus",
+          "titleSlug": "calculate-special-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874487841,
+              "runtime": "585 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Calculate Special Bonus/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1784874487841,
+              "runtime": "671 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "number-of-ways-to-wear-different-hats-to-each-other": {
+          "questionId": "1434",
+          "title": "Number of Ways to Wear Different Hats to Each Other",
+          "titleSlug": "number-of-ways-to-wear-different-hats-to-each-other",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874487841,
+              "runtime": "19 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Number of Ways to Wear Different Hats to Each Other/"
             }
           }
         }
