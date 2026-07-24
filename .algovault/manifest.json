@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:29:06.219Z",
+  "lastUpdated": "2026-07-24T06:29:17.883Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1150,6 +1150,137 @@
               "runtime": "12 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
+            }
+          }
+        },
+        "rotate-string": {
+          "questionId": "796",
+          "title": "Rotate String",
+          "titleSlug": "rotate-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874557883,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Rotate String/"
+            }
+          }
+        },
+        "next-greater-element-i": {
+          "questionId": "496",
+          "title": "Next Greater Element I",
+          "titleSlug": "next-greater-element-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874557883,
+              "runtime": "7 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element I/"
+            }
+          }
+        },
+        "rotated-digits": {
+          "questionId": "788",
+          "title": "Rotated Digits",
+          "titleSlug": "rotated-digits",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874557883,
+              "runtime": "4 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Rotated Digits/"
+            }
+          }
+        },
+        "range-sum-query-immutable": {
+          "questionId": "303",
+          "title": "Range Sum Query - Immutable",
+          "titleSlug": "range-sum-query-immutable",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Design",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874557883,
+              "runtime": "8 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
+            }
+          }
+        },
+        "rotate-function": {
+          "questionId": "396",
+          "title": "Rotate Function",
+          "titleSlug": "rotate-function",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874557883,
+              "runtime": "4 ms",
+              "memory": "90.5 MB",
+              "githubPath": "LeetCode/Array/Rotate Function/"
+            }
+          }
+        },
+        "number-of-senior-citizens": {
+          "questionId": "2678",
+          "title": "Number of Senior Citizens",
+          "titleSlug": "number-of-senior-citizens",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874557883,
+              "runtime": "1 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Number of Senior Citizens/"
+            }
+          }
+        },
+        "merge-two-2d-arrays-by-summing-values": {
+          "questionId": "2570",
+          "title": "Merge Two 2D Arrays by Summing Values",
+          "titleSlug": "merge-two-2d-arrays-by-summing-values",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874557883,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Merge Two 2D Arrays by Summing Values/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874546221" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874557885" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -25,6 +25,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
+| 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
+| 396 | [Rotate Function](./Array/Rotate%20Function/) | Medium |
+| 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
@@ -39,6 +42,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+| 2570 | [Merge Two 2D Arrays by Summing Values](./Array/Merge%20Two%202D%20Arrays%20by%20Summing%20Values/) | Easy |
+| 2678 | [Number of Senior Citizens](./Array/Number%20of%20Senior%20Citizens/) | Easy |
 | 2717 | [Semi-Ordered Permutation](./Array/Semi-Ordered%20Permutation/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
 
@@ -120,6 +125,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
 
 </details>
@@ -144,6 +150,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 
 </details>
