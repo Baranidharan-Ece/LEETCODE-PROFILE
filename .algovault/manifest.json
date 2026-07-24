@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:30:09.614Z",
+  "lastUpdated": "2026-07-24T06:30:24.066Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1663,6 +1663,179 @@
               "runtime": "4 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/String/Robot Return to Origin/"
+            }
+          }
+        },
+        "check-if-binary-string-has-at-most-one-segment-of-ones": {
+          "questionId": "1784",
+          "title": "Check if Binary String Has at Most One Segment of Ones",
+          "titleSlug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874624066,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Check if Binary String Has at Most One Segment of Ones/"
+            }
+          }
+        },
+        "maximum-amount-of-money-robot-can-earn": {
+          "questionId": "3418",
+          "title": "Maximum Amount of Money Robot Can Earn",
+          "titleSlug": "maximum-amount-of-money-robot-can-earn",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874624066,
+              "runtime": "173 ms",
+              "memory": "238.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Amount of Money Robot Can Earn/"
+            }
+          }
+        },
+        "lexicographically-smallest-generated-string": {
+          "questionId": "3474",
+          "title": "Lexicographically Smallest Generated String",
+          "titleSlug": "lexicographically-smallest-generated-string",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Greedy",
+            "String Matching"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874624066,
+              "runtime": "41 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/String/Lexicographically Smallest Generated String/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874624066,
+              "runtime": "2 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874624066,
+              "runtime": "0 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "convert-a-number-to-hexadecimal": {
+          "questionId": "405",
+          "title": "Convert a Number to Hexadecimal",
+          "titleSlug": "convert-a-number-to-hexadecimal",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874624066,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Convert a Number to Hexadecimal/"
+            }
+          }
+        },
+        "keyboard-row": {
+          "questionId": "500",
+          "title": "Keyboard Row",
+          "titleSlug": "keyboard-row",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874624066,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Keyboard Row/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874624066,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "top-k-frequent-elements": {
+          "questionId": "347",
+          "title": "Top K Frequent Elements",
+          "titleSlug": "top-k-frequent-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874624066,
+              "runtime": "48 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Top K Frequent Elements/"
             }
           }
         }

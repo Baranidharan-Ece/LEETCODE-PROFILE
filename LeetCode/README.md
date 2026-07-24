@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874609618" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874624068" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,13 +21,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
+| 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 396 | [Rotate Function](./Array/Rotate%20Function/) | Medium |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
+| 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
@@ -56,6 +59,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2717 | [Semi-Ordered Permutation](./Array/Semi-Ordered%20Permutation/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
+| 3418 | [Maximum Amount of Money Robot Can Earn](./Array/Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) | Medium |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./Array/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
@@ -115,6 +119,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 76 | [Minimum Window Substring](./Hash%20Table/Minimum%20Window%20Substring/) | Hard |
+| 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
 | 1935 | [Maximum Number of Words You Can Type](./Hash%20Table/Maximum%20Number%20of%20Words%20You%20Can%20Type/) | Easy |
@@ -141,6 +146,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
+| 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
 | 3783 | [Mirror Distance of an Integer](./Math/Mirror%20Distance%20of%20an%20Integer/) | Easy |
@@ -166,13 +172,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](./String/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) | Easy |
 | 2833 | [Furthest Point From Origin](./String/Furthest%20Point%20From%20Origin/) | Easy |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](./String/Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) | Easy |
 | 3136 | [Valid Word](./String/Valid%20Word/) | Easy |
+| 3474 | [Lexicographically Smallest Generated String](./String/Lexicographically%20Smallest%20Generated%20String/) | Hard |
 
 </details>
 
