@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874656501" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1784874670899" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -34,6 +34,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 396 | [Rotate Function](./Array/Rotate%20Function/) | Medium |
+| 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
@@ -43,7 +44,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
+| 840 | [Magic Squares In Grid](./Array/Magic%20Squares%20In%20Grid/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
+| 961 | [N-Repeated Element in Size 2N Array](./Array/N-Repeated%20Element%20in%20Size%202N%20Array/) | Easy |
 | 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 1128 | [Number of Equivalent Domino Pairs](./Array/Number%20of%20Equivalent%20Domino%20Pairs/) | Easy |
@@ -57,6 +60,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1848 | [Minimum Distance to the Target Element](./Array/Minimum%20Distance%20to%20the%20Target%20Element/) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
+| 1975 | [Maximum Matrix Sum](./Array/Maximum%20Matrix%20Sum/) | Medium |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./Array/Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) | Easy |
 | 2078 | [Two Furthest Houses With Different Colors](./Array/Two%20Furthest%20Houses%20With%20Different%20Colors/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
@@ -66,6 +70,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2717 | [Semi-Ordered Permutation](./Array/Semi-Ordered%20Permutation/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
+| 3314 | [Construct the Minimum Bitwise Array I](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20I/) | Easy |
 | 3418 | [Maximum Amount of Money Robot Can Earn](./Array/Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) | Medium |
 | 3507 | [Minimum Pair Removal to Sort Array I](./Array/Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) | Easy |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
@@ -142,6 +147,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
+| 756 | [Pyramid Transition Matrix](./Hash%20Table/Pyramid%20Transition%20Matrix/) | Medium |
 | 1935 | [Maximum Number of Words You Can Type](./Hash%20Table/Maximum%20Number%20of%20Words%20You%20Can%20Type/) | Easy |
 
 </details>

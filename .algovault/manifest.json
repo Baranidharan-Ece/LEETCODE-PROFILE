@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:30:56.498Z",
+  "lastUpdated": "2026-07-24T06:31:10.896Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2118,6 +2118,121 @@
               "runtime": "45 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "assign-cookies": {
+          "questionId": "455",
+          "title": "Assign Cookies",
+          "titleSlug": "assign-cookies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874670895,
+              "runtime": "15 ms",
+              "memory": "51.4 MB",
+              "githubPath": "LeetCode/Array/Assign Cookies/"
+            }
+          }
+        },
+        "construct-the-minimum-bitwise-array-i": {
+          "questionId": "3314",
+          "title": "Construct the Minimum Bitwise Array I",
+          "titleSlug": "construct-the-minimum-bitwise-array-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874670895,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Construct the Minimum Bitwise Array I/"
+            }
+          }
+        },
+        "maximum-matrix-sum": {
+          "questionId": "1975",
+          "title": "Maximum Matrix Sum",
+          "titleSlug": "maximum-matrix-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874670895,
+              "runtime": "6 ms",
+              "memory": "68.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Matrix Sum/"
+            }
+          }
+        },
+        "n-repeated-element-in-size-2n-array": {
+          "questionId": "961",
+          "title": "N-Repeated Element in Size 2N Array",
+          "titleSlug": "n-repeated-element-in-size-2n-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874670895,
+              "runtime": "0 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/N-Repeated Element in Size 2N Array/"
+            }
+          }
+        },
+        "pyramid-transition-matrix": {
+          "questionId": "756",
+          "title": "Pyramid Transition Matrix",
+          "titleSlug": "pyramid-transition-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874670895,
+              "runtime": "58 ms",
+              "memory": "49.8 MB",
+              "githubPath": "LeetCode/Hash Table/Pyramid Transition Matrix/"
+            }
+          }
+        },
+        "magic-squares-in-grid": {
+          "questionId": "840",
+          "title": "Magic Squares In Grid",
+          "titleSlug": "magic-squares-in-grid",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784874670896,
+              "runtime": "1 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Magic Squares In Grid/"
             }
           }
         }
